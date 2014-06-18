@@ -1,9 +1,9 @@
-=== SyntaxHighlighter Evolved: T-SQL Brush ===
+=== SyntaxHighlighter Evolved: Typescript Brush ===
 Contributors: knarfalingus
 Tags: syntaxhighlighting, typescript
 Requires at least: 2.7
 Tested up to: 3.8
-Stable tag: 0.1
+Stable tag: 1.0.1
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.txt
 
