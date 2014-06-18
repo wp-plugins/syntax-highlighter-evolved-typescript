@@ -3,7 +3,7 @@
 /*
 Plugin Name: SyntaxHighlighter Evolved: TypeScript Brush
 Description: Adds support for the TypeScript language to the SyntaxHighlighter Evolved plugin.
-Version: 1.0.0
+Version: 1.0.1
 Author: KnarfaLingus
 Author URI: https://www.knarfalingus.com/
 License: GPL2
